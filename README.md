@@ -50,4 +50,4 @@ My name is Nikhil Bhatt and I'm a software developer. I'm from india, living in 
 
 ## Profile Views
 
-[![Visits Badge](https://badges.pufler.dev/visits/nikhilbhatt/nikhilbhatt)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=nikhilbhatt&color=dc143c)
