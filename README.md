@@ -4,8 +4,7 @@ My name is Nikhil Bhatt and I'm a software developer. I'm from india, living in 
 
 ## &#x270d;About Me
 
-- 🌱 I’m currently learning Laravel Framework
-- 🔭 I’m currently working on MERN stack
+- 🌱 I’m currently Working on Laravel Framework
 - 👯 I’m looking to collaborate on Projects and Ideas
 - 💬 Ask me about Anything  
 
@@ -19,9 +18,6 @@ My name is Nikhil Bhatt and I'm a software developer. I'm from india, living in 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 
 
-<a href="https://github.com/nikhilbhatt/nikhilbhatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbhatt&hide=css,java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <a href="https://github.com/nikhilbhatt/nikhilbhatt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilbhatt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
@@ -30,11 +26,6 @@ My name is Nikhil Bhatt and I'm a software developer. I'm from india, living in 
 <a href="https://github.com/nikhilbhatt/text-to-handwriting">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilbhatt&repo=text-to-handwriting&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
-<a href="https://github.com/nikhilbhatt/EmailCampaign">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilbhatt&repo=EmailCampaign&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
 
 <!-- Actual text -->
 
