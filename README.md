@@ -1,12 +1,7 @@
 ## &#x270d; Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nikhil Bhatt and I'm a software developer. I'm from india, living in Uttarakhand and currently Intern at ColoredCow. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
+My name is Nikhil Bhatt and I'm a software developer.I love to solve problem through technology. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
 
-## &#x270d;About Me
-
-- 🌱 I’m currently Working on Laravel Framework
-- 👯 I’m looking to collaborate on Projects and Ideas
-- 💬 Ask me about Anything  
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
