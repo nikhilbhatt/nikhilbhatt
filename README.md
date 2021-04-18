@@ -1,7 +1,12 @@
-## &#x270d; Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi 👋 I'm Nikhil</h1>
+<h3 align="center">A passionate software developer✨</h3>
 
-My name is Nikhil Bhatt and I'm a software developer.I love to solve problem through technology. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
+<p align="center">
+<a href="https://linkedin.com/in/nik-bhatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nik-bhatt" height="30" width="30" /></a>
+<a href="https://twitter.com/nick_bhtt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@nick_bhatt" height="30" width="30" /></a>
+</p>
 
+![](https://komarev.com/ghpvc/?username=nikhilbhatt&color=dc143c)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -11,29 +16,19 @@ My name is Nikhil Bhatt and I'm a software developer.I love to solve problem thr
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 
 
 
 <a href="https://github.com/nikhilbhatt/nikhilbhatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilbhatt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilbhatt&show_icons=true&theme=radical" alt="nikhilbhatt" />
 </a>
 
 <a href="https://github.com/nikhilbhatt/text-to-handwriting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilbhatt&repo=text-to-handwriting&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilbhatt&repo=text-to-handwriting&show_icons=true&theme=radical" />
 </a>
 
-<!-- Actual text -->
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/nick_bhtt
-[2]: https://www.linkedin.com/in/nik-bhatt/
-
-## Profile Views
-
-![](https://komarev.com/ghpvc/?username=nikhilbhatt&color=dc143c)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilbhatt" alt="Github Streak Stats">
+</p>
