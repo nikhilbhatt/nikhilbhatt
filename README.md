@@ -2,8 +2,8 @@
 <h3 align="center">A passionate software developer✨</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/nik-bhatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nik-bhatt" height="30" width="30" /></a>
-<a href="https://twitter.com/nick_bhtt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@nick_bhatt" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/nik-bhatt" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nik-bhatt" height="30" width="30" /></a>
+<a href="https://twitter.com/nick_bhtt" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@nick_bhatt" height="30" width="30" /></a>
 </p>
 
 ## 🔧 Tools & Technologies
@@ -19,14 +19,14 @@
 
 | | | | |
 | ----- | ----- | ----- | ----- |
-| [eLitmus Evaluation Pvt Ltd.](https://www.elitmus.com) | Full Stack Developer | Jan 2021 - Present | Building useful softwares |
-| [ColoredCow](https://coloredcow.com/) | Intern | Sep 2020 - Nov 2020 | Software Journey Started |
+| <a href="https://www.elitmus.com" target="_blank">eLitmus Evaluation Pvt Ltd.</a> | Full Stack Developer | Jan 2021 - Present | Building useful softwares |
+| <a href="https://coloredcow.com/" target="_blank">ColoredCow</a> | Intern | Sep 2020 - Nov 2020 | Software Journey Started |
 
 ## ✍ Blogs
-1. [Puma: From Daemonization to Process Control with Systemctl and Monit](https://www.elitmus.com/blog/technology/puma-from-daemonization-to-process-control-with-systemctl-and-monit/)
-2. [Debugging & Fixing mysql deadlock issue](https://www.elitmus.com/blog/technology/debugging-and-fixing-mysql-deadlock-issue/)
-3. [Website Monitor Using Google App Script](https://www.elitmus.com/blog/technology/website-monitor-using-google-app-script/)
-4. [Fixing Capybara Flaky Tests](https://www.elitmus.com/blog/technology/fixing-capybara-flaky-tests/)
+1. <a href="https://www.elitmus.com/blog/technology/puma-from-daemonization-to-process-control-with-systemctl-and-monit/" target="_blank">Puma: From Daemonization to Process Control with Systemctl and Monit</a>
+2. <a href="https://www.elitmus.com/blog/technology/debugging-and-fixing-mysql-deadlock-issue/" target="_blank">Debugging & Fixing mysql deadlock issue</a>
+3. <a href="https://www.elitmus.com/blog/technology/website-monitor-using-google-app-script/" target="_blank">Website Monitor Using Google App Script</a>
+4. <a href="https://www.elitmus.com/blog/technology/fixing-capybara-flaky-tests/" target="_blank">Fixing Capybara Flaky Tests</a>
 
 ![](https://komarev.com/ghpvc/?username=nikhilbhatt&color=dc143c&style=for-the-badge)
  
