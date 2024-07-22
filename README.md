@@ -19,14 +19,21 @@
 
 | | | | |
 | ----- | ----- | ----- | ----- |
-| <a href="https://www.elitmus.com" target="_blank">eLitmus Evaluation Pvt Ltd.</a> | Full Stack Developer | Jan 2021 - Present | Building useful softwares |
+| <a href="https://www.elitmus.com" target="_blank">eLitmus Evaluation Pvt Ltd.</a> | Full Stack Developer | Dec 2020 - Present | Building useful softwares |
 | <a href="https://coloredcow.com/" target="_blank">ColoredCow</a> | Intern | Sep 2020 - Nov 2020 | Software Journey Started |
 
 ## ✍ Blogs
-1. <a href="https://www.elitmus.com/blog/technology/puma-from-daemonization-to-process-control-with-systemctl-and-monit/" target="_blank">Puma: From Daemonization to Process Control with Systemctl and Monit</a>
-2. <a href="https://www.elitmus.com/blog/technology/debugging-and-fixing-mysql-deadlock-issue/" target="_blank">Debugging & Fixing mysql deadlock issue</a>
-3. <a href="https://www.elitmus.com/blog/technology/website-monitor-using-google-app-script/" target="_blank">Website Monitor Using Google App Script</a>
-4. <a href="https://www.elitmus.com/blog/technology/fixing-capybara-flaky-tests/" target="_blank">Fixing Capybara Flaky Tests</a>
+1. <a href="https://www.elitmus.com/blog/technology/mastering-multi-tenant-setup-with-rails-background-jobs" target="_blank">Mastering Multi Tenant setup with rails - background jobs </a>
+2. <a href="https://www.elitmus.com/blog/technology/mastering-multi-tenant-setup-with-rails-part-1" target="_blank">Mastering Multi Tenant setup with rails part 1</a>
+3. <a href="https://www.elitmus.com/blog/technology/puma-from-daemonization-to-process-control-with-systemctl-and-monit/" target="_blank">Puma: From Daemonization to Process Control with Systemctl and Monit</a>
+4. <a href="https://www.elitmus.com/blog/technology/debugging-and-fixing-mysql-deadlock-issue/" target="_blank">Debugging & Fixing mysql deadlock issue</a>
+5. <a href="https://www.elitmus.com/blog/technology/website-monitor-using-google-app-script/" target="_blank">Website Monitor Using Google App Script</a>
+6. <a href="https://www.elitmus.com/blog/technology/fixing-capybara-flaky-tests/" target="_blank">Fixing Capybara Flaky Tests</a>
+6. <a href="https://nikhilbhatt.netlify.app/blogs/vagrant-setup-in-m1" target="_blank">Vagrant setup in MAC m1</a>
+6. <a href="https://nikhilbhatt.netlify.app/blogs/frontend-validations-not-enough" target="_blank">Why frontend validations are not enough?</a>
+6. <a href="https://nikhilbhatt.netlify.app/blogs/react-unit-testing" target="_blank">React Unit Testing</a>
+6. <a href="https://nikhilbhatt.netlify.app/blogs" target="_blank">All Blogs...</a>
+
 
 ![](https://komarev.com/ghpvc/?username=nikhilbhatt&color=dc143c&style=for-the-badge)
  
